@@ -1,6 +1,7 @@
 # 後台系統
 ### 帳:admin@mail.com
 ### 密:admin
+#
 
 
 
@@ -9,10 +10,10 @@
 
 
 
-# install all package
+# Install all package
 
-npm install all
-
+### `npm install all`
+#
 
 ### `npm start`
 
