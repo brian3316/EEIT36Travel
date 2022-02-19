@@ -1,0 +1,1 @@
+export const proxy_pass = `https://secret-ocean-49799.herokuapp.com/`;

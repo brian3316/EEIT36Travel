@@ -1,0 +1,39 @@
+.journey-home-container {
+    display: grid;
+    row-gap: 20px;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    margin-top: 0px;
+    margin-left: 40px;
+    
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    
+}
+
+.journey-home-title {
+    
+    margin-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    padding-top: 50px;
+    justify-content: space-around;
+    
+}
+
+#jourti {
+    font-size: 50px;
+    font-family: 'Stick', sans-serif;
+}
+
+#centerok{
+        display: flex;
+        justify-content: center; 
+        align-items: center; 
+}
+
+/* font-family: 'DotGothic16', sans-serif;
+font-family: 'Reggae One', cursive;
+font-family: 'RocknRoll One', sans-serif;
+font-family: 'Stick', sans-serif; */
