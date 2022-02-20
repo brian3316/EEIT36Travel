@@ -1,7 +1,7 @@
 # 後台系統
 ### 帳:admin@mail.com
 ### 密:admin
-#
+# localhost:3000/dashboardlogin (進入後台)
 
 
 
